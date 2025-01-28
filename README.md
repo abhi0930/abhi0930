@@ -66,10 +66,4 @@
 
 
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abhi0930/abhi0930/output/snake.svg" alt="Snake animation" />
-
-###
